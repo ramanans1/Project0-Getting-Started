@@ -3,12 +3,21 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Ramanan Sekar
+  * LinkedIn: https://www.linkedin.com/in/ramanansekar/ , twitter: https://twitter.com/naanboi
+* Tested on: Windows 10, i7-7700HQ CPU @2.80 GHz 16 GB, GTX 1060 Max Q, 6 GB. Personal computer
 
-### (TODO: Your README)
+### (README)
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+* Compute Capability of CUDA-Compatible GPU: 6.1
+* WebGL Result:
+![](images/chrome_gpu_screenshot.jpg)
+* DXR Result:
+![](images/green_traingle.jpg)
+* Building and Running: Modification
+![](images/another_green.jpg)
+* NSight Analysis Result:
+![](images/nsight_test.jpg)
+* NSight Debugging:
+![](images/nsight_test.jpg)
 
