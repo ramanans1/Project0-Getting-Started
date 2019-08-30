@@ -13,7 +13,7 @@ Project 0 Getting Started
 * WebGL Result:
 ![](images/chrome_gpu_screenshot.jpg)
 * DXR Result:
-![](images/green_traingle.jpg)
+![](images/green_triangle.jpg)
 * Building and Running: Modification
 ![](images/another_green.jpg)
 * NSight Analysis Result:
